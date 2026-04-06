@@ -6,6 +6,7 @@
 **Dataset:** WFP Global Food Prices — India (HDX, UN World Food Programme)  
 **Model:** Temporal Fusion Transformer — Lim et al., 2021  
 **Scope:** 142 market-commodity time series · 31 Indian states · Jan 1994 – Feb 2026  
+**Live App:** https://crop-price-forecast-5sbpmbv8zqj9zukgamwgsx.streamlit.app/  
 **Citation:** Lim, B., Arık, S.Ö., Loeff, N., & Pfister, T. (2021). *Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting.* International Journal of Forecasting, 37(4), 1748–1764.
 
 ---
